@@ -1,0 +1,56 @@
+body {
+  background-color: #3F686A;
+  font-family: Avenir, Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-align: center;
+  color: white;
+}
+
+#app {
+  padding: 2rem 0 3rem 0;
+}
+
+h2 {
+  text-align: start;
+}
+
+p, span {
+  margin: 0;
+  font-size: 1.2rem;
+  line-height: 1.2rem;
+}
+
+button {
+  font-family: inherit;
+}
+
+input {
+  font-family: inherit;
+  font-size: 100%;
+  box-sizing: border-box;
+  margin: 0;
+  border: none;
+
+  &:focus {
+    &::placeholder {
+      color: transparent;
+    }
+  }
+}
+
+.d-flex {
+  display: flex;
+}
+
+.flex-dir-column {
+  flex-direction: column;
+}
+
+.justify-space-between {
+  justify-content: space-between;
+}
+
+.align-self-center {
+  align-self: center;
+}
