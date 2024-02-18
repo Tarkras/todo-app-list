@@ -1,7 +1,7 @@
 # todo-app-list
 
 ## Specifications
-This is a simple To Do app list. The behaviours that include this applications are:
+This is a simple To Do app list. The behaviours included this application are:
 - Add, edit and delete To Do item.
 - Check To Do item if it has been done.
 - Filter the To Do item by message or by status of the item.
