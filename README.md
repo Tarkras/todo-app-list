@@ -6,7 +6,7 @@ This is a simple To Do app list. The behaviours that include this applications a
 - Check To Do item if it has been done.
 - Filter the To Do item by message or by status of the item.
 
-All the items are stored inside the local storage and are retrieved if there are items to mantain the list that the user has done.
+All the items are stored inside the local storage. Those are retrieved if there are items inside the storage, this is to mantain the list the user has done.
 
 ## Project setup
 ```
